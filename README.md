@@ -6,3 +6,5 @@ This repository also contains a directory titled Project EDA which contains the 
 This repository also contains a directory titled Project Prelimary Predictive Analysis which contains the Jupyter Notebook Python Script (Using Google Collab) titled "DS_Preliminary_Models" which highlights the predictive models I used to predict Earth-Like Similarity. The revised version of my Exploraotry Data Analysis script titled "New_Exoplanet_Habitability_Prediction_EDA" included my updated preprocessing steps used for modeling.
 
 This repository also contains a directory titled Project Poster which contains the poster presentation titled DS_POSTER_SZM that highlights the findings of this analysis.
+
+This repository also contains a directory titled Final Project Materials which contains my final rpoject report, final project presentation, final EDA code, and final modeling code.
